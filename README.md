@@ -7,7 +7,10 @@ Projeto desenvolvido como parte do meu aprendizado em Flutter, com o objetivo de
 Este aplicativo permite que os usuários insiram seu peso e altura para calcular o IMC. O resultado é exibido juntamente com a classificação da OMS (Organização Mundial da Saúde), ajudando o usuário a entender seu estado físico atual.
 
 
-![GIF do App](assets/imc_calculator.mp4)
+### Demonstração do App
+
+![Imagem do App](assets/image.png)
+![Outra Imagem do App](assets/image2.png)
 
 ---
 
